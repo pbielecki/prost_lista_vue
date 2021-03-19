@@ -1,2 +1,2 @@
 # prost_lista_vue
-VUE -Prosta lista zadań
+VUE - Prosta lista zadań.
